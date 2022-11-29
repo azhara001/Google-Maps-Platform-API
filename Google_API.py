@@ -16,7 +16,7 @@ class Google_API(object):
     outputdf = pd.Series(0)
     abs_path = None
 
-    def __init__(self,API_key="AIzaSyALsZCmxIKPCO8vJHhNMxxJiEWDkKpo-Qc",base_url = 'https://maps.googleapis.com/maps/api/'):
+    def __init__(self,API_key="",base_url = 'https://maps.googleapis.com/maps/api/'):
         self.API_key = API_key
         self.base_url = base_url
 
