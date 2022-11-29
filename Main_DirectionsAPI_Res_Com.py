@@ -9,8 +9,8 @@ import geopandas
 print("Beginning Execution ...")
 
 
-API_Key_Abdullah = "AIzaSyCtxc33UlHmSRg7kXrCBtX1VYEUJU5cwA8"
-API_Key_Test = "AIzaSyALsZCmxIKPCO8vJHhNMxxJiEWDkKpo-Qc"
+API_Key_Abdullah = ""
+API_Key_Test = ""
 
 
 access = Google_API()
