@@ -39,10 +39,6 @@ out = Travel_Times_Traffic_Flows(DF)
 # %%
 ##### TRAFFIC FLOWS
 
-#directory_name = "PSCA Data/2021 Data"
-#directory_name = "C:/Users/abdul/OneDrive/Abdullah Azhar One Drive Personal/OneDrive/Desktop/LUMS_2021_RAship+Grad School Data/O-D Datasets_Google_APIs/PSCA Data/Avari and Faisal Chowk"
-#directory_name = "C:/Users/abdul/OneDrive/Abdullah Azhar One Drive Personal/OneDrive/Desktop/LUMS_2021_RAship+Grad School Data/O-D Datasets_Google_APIs/PSCA Data"
-#directory_name = "C:/Users/abdul/OneDrive/Abdullah Azhar One Drive Personal/OneDrive/Desktop/LUMS_2021_RAship+Grad School Data/O-D Datasets_Google_APIs/PSCA Data/2018 Data"
 #savepath = "PSCA 2018.pkl"
 #savepath = "PSCA Avari and Faisal Chowk.pkl"
 savepath = "PSCA Amalagamated Data.pkl"
